@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ershubham815
-- 👀 I’m interested in Polving real time problem
+- 👀 I’m interested in Solving real time problem
 - 🌱 I’m currently learning React & GCP
 - 📫 You can reach me on my instagram its_shubham_21
 
